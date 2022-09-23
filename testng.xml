@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/a.savchenko/Desktop/customTry/DB Testing">
         <classes>
-            <class name="storedprocedureTesting.SPTesing"></class>
+            <class name="storedprocedureTesting.dbCompleteTest"></class>
         </classes>
     </test>
 </suite>
